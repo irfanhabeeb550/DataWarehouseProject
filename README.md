@@ -41,6 +41,6 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## 🌟 About Me
 
-Hi there! I’m **[Your Name]**, also known as **Data With [Your Name]**. I’m an IT professional and passionate data enthusiast on a mission to share knowledge in an enjoyable and engaging way.  
-Feel free to connect with me on [LinkedIn](#) or check out my other projects!
+Hi there! I’m IRFAN HABEEB K. I’m an IT professional and passionate data enthusiast on a mission to share knowledge in an enjoyable and engaging way.  
+Feel free to connect with me on  https://www.linkedin.com/in/irfan-habeeb-84a297255  or check out my other projects!
 
